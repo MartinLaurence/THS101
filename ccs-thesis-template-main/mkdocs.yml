@@ -1,0 +1,52 @@
+site_name: Thesis Project
+site_description: A modular thesis written in Markdown and published with MkDocs
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - admonition
+  - tables
+  - footnotes
+  - def_list
+  - attr_list
+nav:
+  - Home: index.md
+  - Front Matter:
+      - Title Page: 01-front-matter/title-page.md
+      - Abstract: 01-front-matter/abstract.md
+      - Table of Contents: 01-front-matter/table-of-contents.md
+      - List of Figures: 01-front-matter/list-of-figures.md
+      - List of Tables: 01-front-matter/list-of-tables.md
+      - List of Notations: 01-front-matter/list-of-notations.md
+  - Introduction:
+      - Project Context: 02-introduction/project-context.md
+      - Purpose and Description: 02-introduction/purpose-and-description.md
+      - Objectives: 02-introduction/objectives.md
+      - Scope and Limitations: 02-introduction/scope-and-limitations.md
+  - Related Literature: 03-related-literature/related-literature.md
+  - Technical Background: 04-technical-background/technical-background.md
+  - Design and Methodology:
+      - Conceptual Design: 05-design-and-methodology/conceptual-design.md
+      - System Architecture: 05-design-and-methodology/system-architecture.md
+      - Block Diagrams: 05-design-and-methodology/block-diagrams.md
+      - Algorithms: 05-design-and-methodology/algorithms.md
+  - Results and Discussion: 06-results-and-discussion/results-and-discussion.md
+  - Conclusions and Recommendations: 07-conclusions-and-recommendations/conclusions-and-recommendations.md
+  - Appendices:
+      - Relevant Source Code: 08-appendices/source-code.md
+      - Evaluation Tools or Test Documents: 08-appendices/evaluation-tools.md
+      - Sample Input/Output or Reports: 08-appendices/sample-input-output.md
+      - User Guide: 08-appendices/user-guide.md
+      - CVs:
+          - Member 1: 08-appendices/cv/member1.md
+          - Member 2: 08-appendices/cv/member2.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/
