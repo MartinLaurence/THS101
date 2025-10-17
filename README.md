@@ -1,78 +1,55 @@
 # Project title and description
 
+# LET Reviewer
 
+A web-based application designed to help aspiring teachers prepare effectively for the **Licensure Examination for Teachers (LET)**.  
+The system provides interactive review tools, mock exams, and gamified learning features to make exam preparation both engaging and efficient.  
+Users can focus on their specific course and majorship, track progress in real time, and review mistakes to continually improve performance.
 
-# Features
+---
 
-# Installation steps
+##  Features
 
-# Screenshot or image
+- **User Sign-Up/Login System** – Secure authentication for personalized access  
+- **Course & Majorship-Based Review Content** – Tailored materials based on the user’s chosen field  
+- **Personalized Profile Management** – Allows users to customize and manage their profiles  
+- **Mock Examination Simulator** – Realistic test environment that simulates the LET experience  
+- **Flashcard Quiz Mode with Timer** – Quick drills to enhance recall and time management  
+- **Mistake Review Feature** – Review incorrect answers and learn from mistakes  
+- **Leaderboard Ranking System** – Competitive ranking to motivate users  
+- **Gamified Interface with Achievements** – Rewards and badges to encourage progress  
+- **Mobile-Responsive Design** – Works seamlessly on mobile and desktop devices  
+- **Customizable User Profiles** – Personal themes and settings  
+- **Real-Time Progress Feedback** – Displays scores and performance trends  
+- **Visual Performance Analytics** – Graphical representation of user performance over time  
 
-# Author section
+---
 
-Martin Magcheco - Project Leader / Web Developer
+##  Installation Steps
 
-Kenn Malabag - Data Base Manager
+1. Clone or download the project to your local machine.  
 
-John Michael Casco - UI/UX Designer
-
-Raph Marqueses - Documentation Writer
-
-Valient Anjo 
-
-======================================================
-# LET PROJECT - INSTALLATION AND USAGE GUIDE
-======================================================
-# Features
-• User Sign-Up/Login System
-
-• Course & Majorship-Based Review Content
-
-• Personalized Profile Management
-
-• Mock Examination Simulator
-
-• Flashcard Quiz Mode with Timer
-
-• Mistake Review Feature
-
-• Leaderboard Ranking System
-
-• Gamified Interface with Achievements
-
-• User-Friendly Enhancements:
-
-• Mobile-Responsive Design
-
-• Customizable User Profiles
-
-• Real-Time Progress Feedback
-
-• Visual Performance Analytics
-
-## INSTALLATION INSTRUCTIONS
-------------------------------------------------------
-1. Clone or download the project to your local machine
-
-2. Open a terminal/command prompt and navigate to the project directory:
-   ```
+2. Open a terminal or command prompt and navigate to the project directory:
+   ```bash
    cd path/to/project
-   ```
 
 3. Install all required dependencies:
    ```
    npm install
    ```
    This might take a few minutes depending on your internet connection.
-------------------------------------------------------
-# Author Section
-Martinlaurence Magcheco 
 
-Ralph Marqueses 
+## Screenshot or image
 
-Kenn J. Malabag 
+## Author section
 
-John Michael Casco
+Martin Magcheco 
 
+Kenn Malabag 
 
-Valient Anjo Avila
+John Michael Casco 
+
+Raph Marqueses 
+
+Valient Anjo 
+
