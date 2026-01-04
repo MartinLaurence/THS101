@@ -1,5 +1,3 @@
-# Project title and description
-
 # LET Reviewer
 
 A web-based application designed to help aspiring teachers prepare effectively for the **Licensure Examination for Teachers (LET)**.  
